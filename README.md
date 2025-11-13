@@ -1,6 +1,8 @@
 # 📝 Todo App
-
 A beautiful and feature-rich todo application built with Flutter and Dart.
+
+## 📸 Try live demo here: 
+https://stran1023-todo-app.netlify.app/
 
 ## ✨ Features
 
@@ -128,8 +130,3 @@ lib/
 2. Toggle **Dark Mode**
 3. Select your preferred **Color Theme**
 4. Changes apply immediately
-
-## 📸 Try live demo here: https://stran1023-todo-app.netlify.app/
-
-- Flutter team for the amazing framework
-- Community packages contributors
