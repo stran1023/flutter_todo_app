@@ -3,6 +3,7 @@ A beautiful and feature-rich todo application built with Flutter and Dart.
 
 ## 📸 Try live demo here: 
 https://stran1023-todo-app.netlify.app/
+
 You can switch between desktop view and mobile view by **F12 -> Crtl + Shift + M** (on Windows)
 
 ## ✨ Features
